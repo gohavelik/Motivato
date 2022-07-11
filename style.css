@@ -1,0 +1,179 @@
+html {
+    background: #172632;
+}
+
+.group-1 {
+    position: absolute;
+    width: 27px;
+    height: 20.25px;
+    left: 282px;
+    top: 76px;
+}
+
+.header-name {
+    position: absolute;
+    width: 106px;
+    height: 32px;
+    left: 310px;
+    top: 72px;
+
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 32px;
+    color: #FBC901;
+
+}
+
+.header-button-home {
+    
+    position: absolute;
+    width: 60px;
+    height: 25px;
+    left: 1131px;
+    top: 77px;
+
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 25px;
+
+
+
+    color: #FBC901;
+
+}
+
+.header-button-about {
+    position: absolute;
+    width: 55px;
+    height: 25px;
+    left: 1221px;
+    top: 77px;
+
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 25px;
+
+
+
+    color: #FBC901;
+
+}
+
+.header-button-services {
+    position: absolute;
+    width: 70px;
+    height: 25px;
+    left: 1304px;
+    top: 77px;
+
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 25px;
+
+
+    color: #FBC901;
+
+}
+
+.header-button-contact {
+    position: absolute;
+    width: 68px;
+    height: 25px;
+    left: 1394px;
+    top: 77px;
+
+    font-family: 'Garamond';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 25px;
+
+
+    color: #FBC901;
+
+}
+
+.eclipse1 {
+    position: absolute;
+    width: 117px;
+    height: 117px;
+    left: 868px;
+    top: 206px;
+
+    background: #FBC901;
+    box-shadow: 0px 8px 32px rgba(251, 201, 1, 0.3), inset -16px -16px 32px #D3A902, inset 16px 16px 32px rgba(255, 255, 255, 0.5);
+    border-radius: 100px;
+}
+
+.eclipse2 {
+    position: absolute;
+    width: 45px;
+    height: 45px;
+    left: 848px;
+    top: 221px;
+    border-radius: 50px;
+
+    background: #F9D543;
+}
+
+.eclipse3 {
+    border-radius: 100px;
+    position: absolute;
+    width: 29px;
+    height: 29px;
+    left: 848px;
+    top: 275px;
+
+    background: #F4C301;
+}
+
+.eclipse4 {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    left: 910px;
+    top: 232px;
+
+    background: #D0A701;
+    border-radius: 100px;
+}
+
+.eclipse5 {
+    border-radius: 100px;
+    position: absolute;
+    width: 17px;
+    height: 17px;
+    left: 925px;
+    top: 261px;
+
+    background: #D5AB01;
+}
+.eclipse6 {
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    left: 895px;
+    top: 266px;
+
+    background: #D0A701;
+    border-radius: 100px;
+}
+
+.eclipse7 {
+    position: absolute;
+    width: 6px;
+    height: 6px;
+    left: 887px;
+    top: 282px;
+
+    background: #DAAF01;
+    border-radius: 100px;
+}
