@@ -177,3 +177,144 @@ html {
     background: #DAAF01;
     border-radius: 100px;
 }
+
+.h1-text {
+    position: absolute;
+width: 659px;
+height: 378px;
+left: 261px;
+top: 304px;
+
+font-family: 'Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 112px;
+line-height: 126px;
+
+color: #FBC901;
+}
+
+.h2-text {
+    position: absolute;
+width: 529px;
+height: 96px;
+left: 263px;
+top: 704px;
+
+font-family: 'Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 133.5%;
+/* or 32px */
+
+
+color: #FBC901;
+}
+
+.download-app {
+    position: absolute;
+width: 240px;
+height: 60px;
+left: 263px;
+top: 862px;
+
+background: #FBC901;
+box-shadow: inset -4px -4px 8px #D3A902, inset 4px 4px 8px rgba(255, 255, 255, 0.5);
+border-radius: 4px;
+}
+
+.learn-more {
+    box-sizing: border-box;
+
+position: absolute;
+width: 205px;
+height: 60px;
+left: 492px;
+top: 862px;
+
+border: 2px solid #FBC901;
+border-radius: 2px;
+}
+
+.download-app-text {
+    
+position: absolute;
+width: 156px;
+height: 28px;
+left: 305px;
+top: 879px;
+
+font-family: 'Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 28px;
+
+color: #15232D;
+}
+
+.learn-more-text {
+    position: absolute;
+width: 126px;
+height: 28px;
+left: 531px;
+top: 879px;
+
+font-family: 'Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 28px;
+
+color: #FBC901;
+}
+
+.rectangle-shadow {
+    position: absolute;
+width: 53px;
+height: 592px;
+left: 5px;
+top: 330px;
+
+background: linear-gradient(270deg, rgba(251, 201, 1, 0) 0%, rgba(251, 201, 1, 0.15) 96.18%);
+}
+
+.rectangle {
+    position: absolute;
+width: 5px;
+height: 592px;
+left: 0px;
+top: 330px;
+
+background: #FBC901;
+}
+
+.most-big-star {
+    position: absolute;
+    height: 120px;
+    width: 120px;
+    left: 836px;
+    top: 983px;
+    
+}
+
+.big-star {
+    position: absolute;
+    width: 72px;
+    height: 74px;
+    left: 929px;
+    top: 946px;
+    
+    
+}
+
+.small-star {
+    position: absolute;
+    height: 46px;
+width: 46px;
+left: 942px;
+top: 1060px;
+border-radius: 2px;
+
+}
